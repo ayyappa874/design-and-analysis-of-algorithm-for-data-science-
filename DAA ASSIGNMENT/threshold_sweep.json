@@ -1,0 +1,56 @@
+[
+  {
+    "threshold": 2,
+    "time_sec": 0.06922980299999892,
+    "distance_calls": 79816,
+    "comparisons": 79816
+  },
+  {
+    "threshold": 5,
+    "time_sec": 0.05533677699999373,
+    "distance_calls": 76368,
+    "comparisons": 76368
+  },
+  {
+    "threshold": 10,
+    "time_sec": 0.04615931899999737,
+    "distance_calls": 67911,
+    "comparisons": 67911
+  },
+  {
+    "threshold": 20,
+    "time_sec": 0.041405635000003826,
+    "distance_calls": 70823,
+    "comparisons": 70823
+  },
+  {
+    "threshold": 40,
+    "time_sec": 0.05703040400000248,
+    "distance_calls": 117199,
+    "comparisons": 117199
+  },
+  {
+    "threshold": 80,
+    "time_sec": 0.09651266900000621,
+    "distance_calls": 229215,
+    "comparisons": 229215
+  },
+  {
+    "threshold": 160,
+    "time_sec": 0.1697853790000039,
+    "distance_calls": 459516,
+    "comparisons": 459516
+  },
+  {
+    "threshold": 320,
+    "time_sec": 0.3032230440000063,
+    "distance_calls": 922163,
+    "comparisons": 922163
+  },
+  {
+    "threshold": 640,
+    "time_sec": 0.6002963010000002,
+    "distance_calls": 1848014,
+    "comparisons": 1848014
+  }
+]
